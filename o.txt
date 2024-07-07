@@ -1,0 +1,7 @@
+terminal.integrated.cwd
+
+                
+const Jid = chat.key.remoteJid
+const Jid = chat.key.remoteJid
+🕐🕑🕒🕓🕔🕖🕗🕘🕙🕚🕛
+socketsocketsocketsocketsocketsocketsocketsocketsocketsocketsocketsocketsocketsocketsocketsocket
